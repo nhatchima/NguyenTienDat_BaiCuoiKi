@@ -1,6 +1,10 @@
 # NguyenTienDat_BaiCuoiKi
-Bài Cuối Kì Nguyễn Tiến Đạt Mã SV B17DCAT035 Nhóm 6
-	
+Bài Cuối Kì 
+Nguyễn Tiến Đạt 
+Mã SV B17DCAT035 
+Nhóm 6
+
+Và để chạy được code hoàn chỉnh thì cần phải thêm import csdl sql vào Databse MySQL để ứng dụng có thể lấy dữ liệu từ server về
 Nếu gặp lỗi khi chạy ứng dụng mà không hiển thị được sản phẩm. Tức là kết nối tới CSDL của bạn có vấn để.
 	GIẢI QUYẾT LỖI:
 -	Chúng ta cần kết nối tới CSDL localhost bằng cách sử dụng xampp. Tải xampp về và thiết lập port để tránh bị xung cổng với các phần mềm khác
