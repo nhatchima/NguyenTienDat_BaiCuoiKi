@@ -1,8 +1,8 @@
 # NguyenTienDat_BaiCuoiKi
-- Bài Cuối Kì 
-- Nguyễn Tiến Đạt 
-- Mã SV B17DCAT035 
-- Nhóm 6
+- Tiêu đề :Bài Cuối Kì môn Lập trình Android
+- Họ tên: Nguyễn Tiến Đạt 
+- Mã SV: B17DCAT035 
+- Nhóm: 06
 
 - Và để chạy được code hoàn chỉnh thì cần phải thêm import csdl sql vào Databse MySQL để ứng dụng có thể lấy dữ liệu từ server về
 - Nếu gặp lỗi khi chạy ứng dụng mà không hiển thị được sản phẩm. Tức là kết nối tới CSDL của bạn có vấn để.
