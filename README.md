@@ -20,3 +20,4 @@
 IP thay bằng IP của máy localhost (cmd -> ipconfig)
 Đường dẫn localhost ở đây là cổng 8888 -> nên phải đổi cổng phù hợp với cổng đc thiết lập 
  
+ Link demo ứng dụng: https://docs.google.com/document/d/1bK9l7xDDPiAIv8xvVr9YLJ7i3VLPsQ0ALtTPkIoaeJY/edit
